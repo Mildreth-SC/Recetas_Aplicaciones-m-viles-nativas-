@@ -25,7 +25,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Fresca ensalada con quinoa, vegetales y vinagreta de limón.",
             calorias = 250,
             tiempoMinutos = 15,
-            imagenUrl = "https://ejemplo.com/imagenes/quinoa.jpg"
+            imagenUrl = "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=400&auto=format&fit=crop"
         ),
         Receta(
             id = 2,
@@ -33,7 +33,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Pechuga de pollo horneada con zanahorias, brócoli y especias.",
             calorias = 400,
             tiempoMinutos = 45,
-            imagenUrl = "https://ejemplo.com/imagenes/pollo.jpg"
+            imagenUrl = "https://images.unsplash.com/photo-1598514982205-f36b96d1e8d4?q=80&w=400&auto=format&fit=crop"
         ),
         Receta(
             id = 3,
@@ -41,7 +41,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Batido desintoxicante de espinaca, manzana verde y apio.",
             calorias = 150,
             tiempoMinutos = 10,
-            imagenUrl = "https://ejemplo.com/imagenes/smoothie.jpg"
+            imagenUrl = "https://images.unsplash.com/photo-1610832958506-aa56368176cf?q=80&w=400&auto=format&fit=crop"
         ),
         Receta(
             id = 4,
@@ -49,7 +49,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Deliciosos tacos veganos rellenos de guiso de lentejas.",
             calorias = 320,
             tiempoMinutos = 25,
-            imagenUrl = "https://ejemplo.com/imagenes/tacos.jpg"
+            imagenUrl = "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=400&auto=format&fit=crop"
         ),
         Receta(
             id = 5,
@@ -57,7 +57,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Filete de salmón rico en omega 3 con espárragos al vapor.",
             calorias = 450,
             tiempoMinutos = 20,
-            imagenUrl = "https://ejemplo.com/imagenes/salmon.jpg"
+            imagenUrl = "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=400&auto=format&fit=crop"
         ),
         Receta(
             id = 6,
@@ -65,7 +65,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Avena reposada en leche de almendras con chía y frutos rojos.",
             calorias = 280,
             tiempoMinutos = 5,
-            imagenUrl = "https://ejemplo.com/imagenes/avena.jpg"
+            imagenUrl = "https://www.bonviveur.com/es/images/webp/avena-nocturna.webp"
         ),
         Receta(
             id = 7,
@@ -73,7 +73,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Crema de calabaza natural con un toque de jengibre y semillas.",
             calorias = 210,
             tiempoMinutos = 30,
-            imagenUrl = "https://ejemplo.com/imagenes/sopa.jpg"
+            imagenUrl = "https://images.unsplash.com/photo-1476718406336-bb5a9690ee2a?q=80&w=400&auto=format&fit=crop"
         ),
         Receta(
             id = 8,
@@ -81,7 +81,7 @@ fun getRecetasDummy(): List<Receta> {
             descripcionBreve = "Tortilla integral con atún, aguacate y espinaca fresca.",
             calorias = 310,
             tiempoMinutos = 10,
-            imagenUrl = "https://ejemplo.com/imagenes/wrap.jpg"
+            imagenUrl = "https://images.unsplash.com/photo-1626700051175-6818013e1d4f?q=80&w=400&auto=format&fit=crop"
         )
     )
 }

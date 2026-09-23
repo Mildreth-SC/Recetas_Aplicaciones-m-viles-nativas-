@@ -51,4 +51,11 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     debugImplementation(libs.androidx.compose.ui.tooling)
+    
+    // Librería para cargar imágenes desde URLs
+    implementation("io.coil-kt:coil-compose:2.6.0")
+    
+    // Material Icons
+    implementation("androidx.compose.material:material-icons-core")
+    implementation("androidx.compose.material:material-icons-extended")
 }

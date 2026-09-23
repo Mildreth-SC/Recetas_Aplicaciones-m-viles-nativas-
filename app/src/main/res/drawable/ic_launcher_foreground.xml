@@ -1,0 +1,67 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Plato -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M20,55
+            C20,76 35,91 54,91
+            C73,91 88,76 88,55
+            Z" />
+
+    <!-- Borde del plato -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M18,52
+            C18,50 20,48 22,48
+            L86,48
+            C88,48 90,50 90,52
+            C90,76 74,94 54,94
+            C34,94 18,76 18,52
+            Z
+            M24,55
+            C26,73 38,86 54,86
+            C70,86 82,73 84,55
+            Z" />
+
+    <!-- Hoja -->
+    <path
+        android:fillColor="#66BB6A"
+        android:pathData="M53,48
+            C45,40 42,29 47,19
+            C58,20 69,27 70,37
+            C70,43 64,48 53,48
+            Z" />
+
+    <!-- Tallo de la hoja -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M53,48
+            C55,39 59,31 66,26
+            L68,28
+            C61,34 57,41 55,49
+            Z" />
+
+    <!-- Pequeño detalle de comida -->
+    <path
+        android:fillColor="#FFB74D"
+        android:pathData="M32,60
+            C32,56 35,54 39,54
+            C43,54 46,56 46,60
+            C46,64 43,67 39,67
+            C35,67 32,64 32,60
+            Z" />
+
+    <path
+        android:fillColor="#EF5350"
+        android:pathData="M62,65
+            C62,61 65,58 69,58
+            C73,58 76,61 76,65
+            C76,69 73,72 69,72
+            C65,72 62,69 62,65
+            Z" />
+
+</vector>
